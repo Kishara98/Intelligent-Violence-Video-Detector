@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='latin-1'?>
+<annotation>
+  <folder>Definitiva</folder>
+  <filename>armas(59).jpg</filename>
+  <path>/home/sachin/Documents/projects/sliit_video/objectDet/real man/RealTimeObjectDetection-main/Tensorflow/workspace/images/armas(59).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>256</width>
+    <height>192</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pistol</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>26</xmin>
+      <ymin>22</ymin>
+      <xmax>241</xmax>
+      <ymax>171</ymax>
+    </bndbox>
+  </object>
+</annotation>
